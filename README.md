@@ -1,6 +1,6 @@
-# Speaker Roof Mount
+# Speaker Ceiling Mount
 
-This repository contains a part for mounting speakers to a roof. The speaker must have a 18x45mm to attach the mounts.
+This repository contains a part for mounting speakers to the ceiling. The speaker must have a 18x45mm to attach the mounts.
 
 ## Motivation
 
@@ -15,7 +15,7 @@ I wanted to get my speakers off the floor, but the ceiling wasn't very easy to m
 ## Instructions
 
 1. You need to mount a frame of 18x45mm around the speaker. I do this to avoid directly attaching or screwing into the speaker.
-2. Then, attach the mounting brackets ot the roof. Use the center hole first to position the mount, use a free piece of wood between two brackets, and then use screws in all the remaining outer holes.
+2. Then, attach the mounting brackets to the ceiling. Use the center hole first to position the mount, use a free piece of wood between two brackets, and then use screws in all the remaining outer holes.
 3. Lift the speaker into the bracket, and screw in the horizontal screws.
 
 ## Contributing
